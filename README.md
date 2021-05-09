@@ -7,6 +7,9 @@ In this project, we will use CMU's famous model Openpose to do some experiment b
 
 ### Data preparation  
 
+COCO dataset: [COCO](https://cocodataset.org/#home)
+
+We have a self-labeled infant-pose dataset. However, due to the clinical data has laws on privacy, we can not put it on github directly. If you want to use these data, please email me: xc2057@nyu.edu.  
 
 ### Training and Testing
 
