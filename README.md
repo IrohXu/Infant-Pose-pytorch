@@ -13,6 +13,19 @@ We have a self-labeled infant-pose dataset. However, due to the clinical data ha
 
 ### Training and Testing
 
+The environment for training and evaluation:  
+```
+python=3.6
+torch>=1.2
+numpy=1.7
+torchvision>=0.4.0
+progress
+matplotlib
+scipy
+pycocotools
+yacs
+```
+
 Training the model:  
 ```
 python train.py
