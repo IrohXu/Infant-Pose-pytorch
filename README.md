@@ -24,3 +24,8 @@ Cao, Z., Hidalgo, G., Simon, T., Wei, S. E., & Sheikh, Y. OpenPose: realtime mul
   publisher={IEEE}
 }
 ```  
+
+Part of the code is refer to:  
+https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation  
+https://github.com/donnyyou/torchcv  
+https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation  
