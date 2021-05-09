@@ -13,6 +13,11 @@ We have a self-labeled infant-pose dataset. However, due to the clinical data ha
 
 ### Training and Testing
 
+Training the model:  
+```
+python train.py
+```
+
 ### Reference:
 Cao, Z., Hidalgo, G., Simon, T., Wei, S. E., & Sheikh, Y. OpenPose: realtime multi-person 2D pose estimation using Part Affinity Fields. IEEE transactions on pattern analysis and machine intelligence. (2019) [PDF](https://arxiv.org/pdf/1812.08008.pdf)
 ```
