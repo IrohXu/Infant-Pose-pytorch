@@ -35,6 +35,12 @@ Training the model:
 python train.py
 ```
 
+Test the model: (before testing, you need to put the model into corresponding folder)   
+```
+python test.py
+```
+
+
 ### Reference:
 Cao, Z., Hidalgo, G., Simon, T., Wei, S. E., & Sheikh, Y. OpenPose: realtime multi-person 2D pose estimation using Part Affinity Fields. IEEE transactions on pattern analysis and machine intelligence. (2019) [PDF](https://arxiv.org/pdf/1812.08008.pdf)
 ```
