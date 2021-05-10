@@ -13,7 +13,8 @@ We have a self-labeled infant-pose dataset. However, due to the clinical data ha
 
 ### Training and Testing
 
-Model: [BaiduYun](https://pan.baidu.com/s/1Mx7uPwKhgw8qVbxlBu1PrQ)  including pre-trained model and finetune model  
+Model: [BaiduYun](https://pan.baidu.com/s/1Mx7uPwKhgw8qVbxlBu1PrQ)  including pre-trained model and finetune model, code: g7pi  
+
 
 
 The environment for training and evaluation:  
