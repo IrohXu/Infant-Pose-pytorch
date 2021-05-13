@@ -1,5 +1,9 @@
 # Infant-Pose-pytorch
 
+### Note for Project performance report
+
+Link is here: [Final_Report](https://github.com/IrohXu/Infant-Pose-pytorch/blob/main/Final_Report.pdf)
+
 ### Introduction  
 Apply OpenPose and Infant Key-point Dataset to Evaluate Infant Posture. This is a NYU course project for CSCI-GA 3033 Section: 091 Introduction to Deep Learning Systems (Spring 2021)  
 In this project, we will use CMU's famous model Openpose to do some experiment based on a self-labeled infant posture dataset.
